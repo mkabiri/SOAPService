@@ -2,6 +2,7 @@ package hello;
 
 /**
  * Created by Nikhil on 17-May-15.
+ * This class is responsible for providing the requested data to the client via the Endpoint class
  */
 
 import io.spring.guides.gs_producing_web_service.Country;

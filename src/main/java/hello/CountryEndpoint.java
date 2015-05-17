@@ -2,6 +2,7 @@ package hello;
 
 /**
  * Created by Nikhil on 17-May-15.
+ * This Endpoint class is responsible for handling and mapping the inbound requests and producing the response
  */
 
 import io.spring.guides.gs_producing_web_service.GetCountryRequest;
